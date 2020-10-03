@@ -1,4 +1,4 @@
-### Greetings! 👋
+### Greetings my friends! 👋
 
 My name is Pedro Figueirêdo. I am a React Front-end Developer. I love to learn new technologies.
 
