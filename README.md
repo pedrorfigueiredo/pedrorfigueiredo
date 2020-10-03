@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Pedro. I am a React Front-end Developer. I love to learn new technologies.
+
 <!--
 **pedrorfigueiredo/pedrorfigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
