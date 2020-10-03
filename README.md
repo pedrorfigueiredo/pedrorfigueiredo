@@ -1,6 +1,6 @@
 ### Greetings my friends! 👋
 
-My name is Pedro Figueirêdo. I am a React Front-end Developer. I love to learn new technologies.
+My name is Pedro Figueirêdo. React Front-end Developer. I really love to learn new technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/pedro-figueir%C3%AAdo-024ba2114/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/aaknos)
