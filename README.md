@@ -1,6 +1,6 @@
 ### Greetings my friends! 👋
 
-My name is Pedro Figueirêdo. I am a Front-end Developer. I really love to learn new technologies. I’m currently learning about React and all its universe. I’m looking to collaborate on cool and interesting projects.
+My name is Pedro Figueirêdo. I am a Front-end Developer. I really love to learn new technologies. I’m currently studying React and its fascinating universe. I’m looking to collaborate on cool projects and interesting people.
 
 Find me on my social media
 
