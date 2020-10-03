@@ -2,8 +2,6 @@
 
 My name is Pedro Figueirêdo. I am a Front-end Developer. I really love to learn new technologies. I’m currently working with React and its fascinating universe. I’m looking to collaborate on cool projects and meet interesting people.
 
-Find me on my social media
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/pedro-figueir%C3%AAdo-024ba2114/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/aaknos)
 
